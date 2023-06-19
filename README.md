@@ -2,7 +2,7 @@
 ***
 
 ## Task
-In this project, we implemented own version of memory management functions `my_malloc`, `my_calloc`, `my_realloc`, and `my_free` using a linked list data structure to manage the heap memory. Here's a high-level overview of each function and some tips for implementing them:
+In this project, i'm implemented own version of memory management functions `my_malloc`, `my_calloc`, `my_realloc`, and `my_free` using a linked list data structure to manage the heap memory. Here's a high-level overview of each function and some tips for implementing them:
 
 ## Description
 - `data structure`:
